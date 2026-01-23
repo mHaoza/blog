@@ -5,8 +5,6 @@ image: https://img.iice.fun/blog/2026/01/22/cd9867ff7a18b1252b7a8c9eeeb473b1.web
 date: 2026-01-19
 ---
 
-## 背景
-
 最近在给一个基于 Nuxt 4 的项目集成 [OXC](https://oxc.rs)（Rust 写的超快 JS/TS 工具链），结果 VS Code 插件一启动就报「Server initialization failed」，整条工具链直接罢工。
 
 ---
