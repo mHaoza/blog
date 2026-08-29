@@ -1,7 +1,8 @@
-# VS Code 扩展插件
-
-> 当前 VS Code 用户配置中已安装的扩展，清单生成于 2026-08-21，共 79 个扩展。
-
+---
+title: VS Code 扩展插件
+image: https://img.iice.fun/blog/2026/07/29/786a91b9c5514b9e0ecd273d14efc5f9.webp
+date: 2026-08-24
+---
 ## 🦀 Rust 开发
 
 - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Rust 语言服务器，提供代码补全、跳转、重构和诊断
